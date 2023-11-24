@@ -1,5 +1,7 @@
 // ------------------------------------------------------------- 1 -------------------------------------------------------------
+
 // let body = document.querySelector("body")
+
 // let divYaslilar = document.createElement("div")
 // let divBoyukler = document.createElement("div")
 // let divKicikler = document.createElement("div")
