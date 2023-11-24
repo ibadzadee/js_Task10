@@ -73,11 +73,3 @@ btnOpen.addEventListener("click" , ()=>{
     btnClose.removeAttribute('disabled');
     input.removeAttribute('readonly');
 })
-
-
-
-
-
-
-
-
